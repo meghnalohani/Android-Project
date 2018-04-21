@@ -1,0 +1,67 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Sathya\Desktop\NewProject2\app\src\main\AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from C:\Users\Sathya\Desktop\NewProject2\app\src\main\AndroidManifest.xml:3:2-30
+		INJECTED from C:\Users\Sathya\Desktop\NewProject2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sathya\Desktop\NewProject2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Sathya\Desktop\NewProject2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sathya\Desktop\NewProject2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Sathya\Desktop\NewProject2\app\src\main\AndroidManifest.xml:2:2-60
+	android:versionCode
+		INJECTED from C:\Users\Sathya\Desktop\NewProject2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sathya\Desktop\NewProject2\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Sathya\Desktop\NewProject2\app\src\main\AndroidManifest.xml:4:2-26:16
+	android:label
+		ADDED from C:\Users\Sathya\Desktop\NewProject2\app\src\main\AndroidManifest.xml:6:3-57
+	android:allowBackup
+		ADDED from C:\Users\Sathya\Desktop\NewProject2\app\src\main\AndroidManifest.xml:5:3-29
+	android:icon
+		ADDED from C:\Users\Sathya\Desktop\NewProject2\app\src\main\AndroidManifest.xml:7:3-36
+	android:theme
+		ADDED from C:\Users\Sathya\Desktop\NewProject2\app\src\main\AndroidManifest.xml:8:3-34
+activity#com.my.newproject2.MainActivity
+ADDED from C:\Users\Sathya\Desktop\NewProject2\app\src\main\AndroidManifest.xml:9:3-17:14
+	android:screenOrientation
+		ADDED from C:\Users\Sathya\Desktop\NewProject2\app\src\main\AndroidManifest.xml:12:4-40
+	android:configChanges
+		ADDED from C:\Users\Sathya\Desktop\NewProject2\app\src\main\AndroidManifest.xml:11:4-50
+	android:name
+		ADDED from C:\Users\Sathya\Desktop\NewProject2\app\src\main\AndroidManifest.xml:10:4-32
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Sathya\Desktop\NewProject2\app\src\main\AndroidManifest.xml:13:4-16:20
+action#android.intent.action.MAIN
+ADDED from C:\Users\Sathya\Desktop\NewProject2\app\src\main\AndroidManifest.xml:14:5-56
+	android:name
+		ADDED from C:\Users\Sathya\Desktop\NewProject2\app\src\main\AndroidManifest.xml:14:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Sathya\Desktop\NewProject2\app\src\main\AndroidManifest.xml:15:5-64
+	android:name
+		ADDED from C:\Users\Sathya\Desktop\NewProject2\app\src\main\AndroidManifest.xml:15:15-62
+activity#com.my.newproject2.LibraryActivity
+ADDED from C:\Users\Sathya\Desktop\NewProject2\app\src\main\AndroidManifest.xml:18:3-21:42
+	android:screenOrientation
+		ADDED from C:\Users\Sathya\Desktop\NewProject2\app\src\main\AndroidManifest.xml:21:4-40
+	android:configChanges
+		ADDED from C:\Users\Sathya\Desktop\NewProject2\app\src\main\AndroidManifest.xml:20:4-50
+	android:name
+		ADDED from C:\Users\Sathya\Desktop\NewProject2\app\src\main\AndroidManifest.xml:19:4-35
+activity#com.my.newproject2.SendrequestActivity
+ADDED from C:\Users\Sathya\Desktop\NewProject2\app\src\main\AndroidManifest.xml:22:3-25:42
+	android:screenOrientation
+		ADDED from C:\Users\Sathya\Desktop\NewProject2\app\src\main\AndroidManifest.xml:25:4-40
+	android:configChanges
+		ADDED from C:\Users\Sathya\Desktop\NewProject2\app\src\main\AndroidManifest.xml:24:4-50
+	android:name
+		ADDED from C:\Users\Sathya\Desktop\NewProject2\app\src\main\AndroidManifest.xml:23:4-39
+uses-sdk
+INJECTED from C:\Users\Sathya\Desktop\NewProject2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from C:\Users\Sathya\Desktop\NewProject2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sathya\Desktop\NewProject2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Sathya\Desktop\NewProject2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sathya\Desktop\NewProject2\app\src\main\AndroidManifest.xml

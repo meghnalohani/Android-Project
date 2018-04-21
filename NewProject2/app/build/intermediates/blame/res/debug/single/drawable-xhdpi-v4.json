@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Sathya\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\background2.jpeg",
+        "source": "C:\\Users\\Sathya\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xhdpi\\background2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Sathya\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\book2.jpeg",
+        "source": "C:\\Users\\Sathya\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xhdpi\\book2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Sathya\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\book1.jpeg",
+        "source": "C:\\Users\\Sathya\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xhdpi\\book1.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Sathya\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\book3.jpeg",
+        "source": "C:\\Users\\Sathya\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xhdpi\\book3.jpeg"
+    }
+]
